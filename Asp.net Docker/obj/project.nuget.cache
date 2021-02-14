@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PvyPkkaQlakSSAol/2pvgBz9L9/QbhwmyEVU4PRlWvaM1yUtgdMNW+4VxScqZ3j33k9i1YIystoA/qIqeweAYg==",
+  "dgSpecHash": "IdtYKmnW53iaox5vsywaZipYT01pOzYp5T+Q4K9n3Jeum7TIAJOoT3KiLtvvN6f9uBzPUq1uUCVFJpJrsPLyLg==",
   "success": true,
-  "projectFilePath": "D:\\Docker\\Asp.net Docker\\Asp.net Docker.csproj",
+  "projectFilePath": "D:\\Docker\\SampleDocker\\Asp.net Docker\\Asp.net Docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

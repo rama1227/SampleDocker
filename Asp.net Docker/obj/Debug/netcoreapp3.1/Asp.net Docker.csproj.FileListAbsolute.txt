@@ -35,3 +35,40 @@ D:\Docker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.dll
 D:\Docker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.pdb
 D:\Docker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.genruntimeconfig.cache
 D:\Docker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.csproj.CopyComplete
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Asp.net Docker.exe
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Asp.net Docker.deps.json
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Asp.net Docker.runtimeconfig.json
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Asp.net Docker.runtimeconfig.dev.json
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Asp.net Docker.dll
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Asp.net Docker.pdb
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Asp.net Docker.Views.dll
+D:\Docker\SampleDocker\Asp.net Docker\bin\Debug\netcoreapp3.1\Asp.net Docker.Views.pdb
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.csprojAssemblyReference.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.AssemblyInfoInputs.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.AssemblyInfo.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.csproj.CoreCompileInputs.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.MvcApplicationPartsAssemblyInfo.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.RazorAssemblyInfo.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.RazorAssemblyInfo.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.TagHelpers.input.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.TagHelpers.output.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.RazorCoreGenerate.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.RazorTargetAssemblyInfo.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.RazorTargetAssemblyInfo.cs
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.Views.pdb
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\staticwebassets\Asp.net Docker.StaticWebAssets.Manifest.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\staticwebassets\Asp.net Docker.StaticWebAssets.xml
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.dll
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.pdb
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.genruntimeconfig.cache
+D:\Docker\SampleDocker\Asp.net Docker\obj\Debug\netcoreapp3.1\Asp.net Docker.csproj.CopyComplete

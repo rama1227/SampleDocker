@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Docker\\Asp.net Docker\\Asp.net Docker.csproj",
+      "projectUniqueName": "D:\\Docker\\SampleDocker\\Asp.net Docker\\Asp.net Docker.csproj",
       "projectName": "Asp.net Docker",
-      "projectPath": "D:\\Docker\\Asp.net Docker\\Asp.net Docker.csproj",
+      "projectPath": "D:\\Docker\\SampleDocker\\Asp.net Docker\\Asp.net Docker.csproj",
       "packagesPath": "C:\\Users\\kodha\\.nuget\\packages\\",
-      "outputPath": "D:\\Docker\\Asp.net Docker\\obj\\",
+      "outputPath": "D:\\Docker\\SampleDocker\\Asp.net Docker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kodha\\AppData\\Roaming\\NuGet\\NuGet.Config",
