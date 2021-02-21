@@ -1,5 +1,13 @@
 FROM node:alpine
 
-RUN npm install
+ENV NODE_ENV=production
 
-CMD["npm","start"]
+WORKDIR /app
+
+COPY ["package.json", "package-lock.json*", "./"]
+
+RUN npm install --production
+
+COPY . .
+
+CMD [ "node", "index.js" ]
